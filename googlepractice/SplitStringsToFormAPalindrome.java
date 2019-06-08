@@ -1,5 +1,6 @@
 package googlepractice;
 
+// https://leetcode.com/discuss/interview-question/306859/google-phone-screen-split-strings-to-form-a-palindrome
 public class SplitStringsToFormAPalindrome {
     public static void main(String[] args) {
         System.out.println(isPalindrome("abcbbbb", "xxxbcba"));
