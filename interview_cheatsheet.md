@@ -2,6 +2,9 @@
 
 This list is meant to be a both a quick guide and reference for further research into these topics.  It's basically a summary of that comp sci course you never took or forgot about, so there's no way it can cover everything in depth.
 
+## Other good Cheatsheets / TODOs
+https://heapclub.gitbook.io/heapclub-algorithms/interview-preparation/important-topics
+
 ## Data Structure Basics
 
 ###**Array**
