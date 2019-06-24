@@ -8,6 +8,9 @@
  * Then for all indices between left and right add Min(left index, right index) - height[currindex] to the running total "volume".
  * Time complexity O(n) although we do run throught the array twice
  * Space complexity O(n) as we need to store and process all array elements 
+ *
+ * EDIT: "Bowls" calculation is not required at all (and is wrong). For each index just find the left and right high points and
+ * add it to volume.
  */
 
 
