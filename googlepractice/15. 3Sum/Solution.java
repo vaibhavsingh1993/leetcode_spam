@@ -1,3 +1,4 @@
+/* O(n^2) solution*/
 public class Solution {
 
   public List<List<Integer>> threeSum(int[] num) {
