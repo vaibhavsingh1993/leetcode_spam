@@ -1,2 +1,2 @@
 # leetcode_spam
-Answers to Leetcode questions  other interview stuff
+Answers to Leetcode questions and other interview stuff
