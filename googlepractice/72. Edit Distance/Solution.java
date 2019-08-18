@@ -18,7 +18,7 @@ class Solution {
             for (int j = 1; j < m + 1; j++) {
                 // If last char is same
                 if (word1.charAt(i - 1) == word2.charAt(j - 1)) {
-                    dp[i][j] = 1 + min(dp[i][j - 1], dp[i - 1][j], dp[i - 1][j - 1] - 1);    
+                    dp[i][j] = dp[i - 1][j - 1]; // Don't do anything new    
                 } else {
                     // If last char is different
                     dp[i][j] = 1 + min(dp[i][j - 1], dp[i - 1][j], dp[i - 1][j - 1]);    
