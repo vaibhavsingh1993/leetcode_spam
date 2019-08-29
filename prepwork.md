@@ -28,3 +28,16 @@ Identified my weak sections a while back (dp, graphs)
     If qualified, practice more system design, advanced topics and hard questions.
 
 It's a slow, painful process specially with work. It doesn't matter that you like problem solving and enjoy it. You just have to stick to the routine, not get demotivated (1-2 days are fine) and you slowly start seeing the changes.
+
+
+You should be able to crack a decent amount of hard LCs, that being said, Google focuses pretty heavily on breadth.
+So be sure to practice extensively on:
+
+    backtracking(appears very often)
+    dynamic programming
+    graphs (dfs, bfs, union find [usually asked as a follow up question to optimize a purely dfs/bfs approach], dijkstra)
+    two pointers (very often)
+    binary search (very very often)
+
+I've noticed somewhat of a new trend at Google, namely binary search on monotonic functions, i.e. : https://leetcode.com/problems/split-array-largest-sum/.
+Several others have mentioned getting interviews on this kind of problem, and you're pretty much gonna be able to come up with a solution instantly if you map it to binary search on sight.
